@@ -1,0 +1,1 @@
+/Users/projectro/github/rust-programs-learning/object_oriented_design_pattern/target/debug/object_oriented_design_pattern: /Users/projectro/github/rust-programs-learning/object_oriented_design_pattern/src/main.rs
